@@ -1,1 +1,2 @@
 1. Test do ćwiczenia 1
+2. Wprowadzono zmiany w pliku
